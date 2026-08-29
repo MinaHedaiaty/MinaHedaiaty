@@ -21,14 +21,13 @@ Frontend Developer  UI development using latest web technologies. Highly skilled
 
 <h2>⚡️ &nbsp; Github Stats</h2>
 
-<a href="https://github.com/sabzlearn-ir">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabzlearn-ir&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabzlearn-ir" />
+<a href="">
+<img src="https://ghstats.dev/api/card?username=MinaHedaiaty&theme=radical&border_radius=21" alt="GitHub Stats Card" />
 </a>
 
 <h2>📞 &nbsp; Connct Me </h2>
 
-<p align="center">
+<p align="left">
   <a href="https://sabzlearn.ir/">
     <img src="https://img.shields.io/badge/Website-www.mmm-green?style=flat&logo=google-chrome" />
   </a>
@@ -39,3 +38,10 @@ Frontend Developer  UI development using latest web technologies. Highly skilled
     <img src="https://img.shields.io/badge/Telegram-@m_hedaiaty-blue?style=flat&logo=telegram" />
   </a>
 </p>
+
+
+<h3 align="center">
+
+_`In love with the word of zero and one`_
+
+</h3>
