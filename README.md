@@ -18,3 +18,24 @@ Frontend Developer  UI development using latest web technologies. Highly skilled
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/MinaHedaiaty/MinaHedaiaty/blob/main/icons8-bootstrap-logo-96.png?raw=true" width="36" height="36" alt="Bootstrap" /></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/MinaHedaiaty/MinaHedaiaty/blob/main/icons8-tailwind-css-96.png?raw=true" width="36" height="36" alt="Tailwindcss" /></a>
 </p>
+
+<h2>⚡️ &nbsp; Github Stats</h2>
+
+<a href="https://github.com/sabzlearn-ir">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabzlearn-ir&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabzlearn-ir" />
+</a>
+
+<h2>📞 &nbsp; Connct Me </h2>
+
+<p align="center">
+  <a href="https://sabzlearn.ir/">
+    <img src="https://img.shields.io/badge/Website-www.mmm-green?style=flat&logo=google-chrome" />
+  </a>
+  <a href="https://instagram.com/rad_front/">
+    <img src="https://img.shields.io/badge/Instagram-@Mina_hedaiaty-red?style=flat&logo=instagram" />
+  </a>
+  <a href="https://t.me/aminkhoy78/">
+    <img src="https://img.shields.io/badge/Telegram-@m_hedaiaty-blue?style=flat&logo=telegram" />
+  </a>
+</p>
