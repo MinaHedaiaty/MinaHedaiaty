@@ -28,14 +28,14 @@ Frontend Developer  UI development using latest web technologies. Highly skilled
 <h2>📞 &nbsp; Connct Me </h2>
 
 <p align="left">
-  <a href="https://sabzlearn.ir/">
+  <a href="https://mmmm/">
     <img src="https://img.shields.io/badge/Website-www.mmm-green?style=flat&logo=google-chrome" />
   </a>
-  <a href="https://instagram.com/rad_front/">
+  <a href="https://instagram.com/Mina_hedaiaty/">
     <img src="https://img.shields.io/badge/Instagram-@Mina_hedaiaty-red?style=flat&logo=instagram" />
   </a>
-  <a href="https://t.me/aminkhoy78/">
-    <img src="https://img.shields.io/badge/Telegram-@m_hedaiaty-blue?style=flat&logo=telegram" />
+  <a href="https://t.me/m_hedaiaty/">
+    <img src="https://img.shields.io/badge/Telegram-@Mina_hedaiaty-blue?style=flat&logo=telegram" />
   </a>
 </p>
 
