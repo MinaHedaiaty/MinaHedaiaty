@@ -41,7 +41,7 @@ Frontend Developer  UI development using latest web technologies. Highly skilled
 
 
 <h3 align="center">
-
-_`In love with the word of zero and one`_
+    
+_`i love the world of zero and one`_
 
 </h3>
