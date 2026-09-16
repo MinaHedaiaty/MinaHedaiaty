@@ -5,8 +5,8 @@
 
 Frontend Developer  UI development using latest web technologies. Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | Bootstrap | Tailwindcss | ReactJS practices.
 
-- 🧠  I'm learning NextJS
-- 🤝  I'm open to collaborating on React based projects
+- 🧠  I'm learning Express.js
+- 🤝  I'm open to collaborating on React.js based projects
 
 <h3>Skills</h3>
 <p align="left">
